@@ -1,5 +1,5 @@
 ## 游戏介绍
-![封面](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Cover.png?raw=true "封面")
+![封面](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Cover.png?raw=true "封面")   
 《[地狱救援](https://store.steampowered.com/app/274190/)》是一款冒险解密游戏。玩家需要扮演一名神父，前往地狱救出自己心爱的女儿。神父一家的悲伤的故事也随着游戏的进行而逐渐浮现。
 
 ## 补丁目的
@@ -27,7 +27,7 @@
 * 欢迎转载或用于实况，但请注明来源和相关信息。  
 
 ## 效果预览
-![预览图 1](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_1.png?raw=true "预览图 0")  
+![预览图 1](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_0.png?raw=true "预览图 0")  
 ![预览图 1](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_1.png?raw=true "预览图 1")   
 ![预览图 2](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_2.png?raw=true "预览图 2")  
 ![预览图 3](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_3.png?raw=true "预览图 3")  
