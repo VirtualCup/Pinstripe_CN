@@ -1,6 +1,6 @@
 ## 游戏介绍
 ![封面](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Cover.png?raw=true "封面")   
-《[地狱救援](https://store.steampowered.com/app/274190/)》是一款冒险解密游戏。玩家需要扮演一名神父，前往地狱救出自己心爱的女儿。神父一家悲伤的故事也随着游戏的进行而逐渐浮现。
+《[地狱救援](https://store.steampowered.com/app/331480/)》是一款冒险解密游戏。玩家需要扮演一名神父，前往地狱救出自己心爱的女儿。神父一家悲伤的故事也随着游戏的进行而逐渐浮现。
 
 ## 补丁目的
 对《地狱救援》的官方中文进行全面重译。
