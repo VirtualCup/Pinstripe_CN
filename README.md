@@ -1,9 +1,9 @@
 ## 游戏介绍
 ![封面](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Cover.png?raw=true "封面")
-《[地狱救援](https://store.steampowered.com/app/274190/)》是一款复古风格的横版射击游戏，游戏中玩家需要扮演各式硬汉兄贵消灭恐怖分子、恶魔以及外星生物来赢回地球的和平。
+《[地狱救援](https://store.steampowered.com/app/274190/)》是一款冒险解密游戏。玩家需要扮演一名神父，前往地狱救出自己心爱的女儿。神父一家的悲伤的故事也随着游戏的进行而逐渐浮现。
 
 ## 补丁目的
-对《兄贵军团》进行全面汉化。
+对《地狱救援》的官方中文进行全面重译。
 
 ## 参与成员
 全部：Virtualname
@@ -27,6 +27,7 @@
 * 欢迎转载或用于实况，但请注明来源和相关信息。  
 
 ## 效果预览
+![预览图 1](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_1.png?raw=true "预览图 0")  
 ![预览图 1](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_1.png?raw=true "预览图 1")   
 ![预览图 2](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_2.png?raw=true "预览图 2")  
 ![预览图 3](https://github.com/VirtualCup/Pinstripe_CN/blob/master/Preview/Preview_3.png?raw=true "预览图 3")  
